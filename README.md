@@ -1,3 +1,3 @@
 # formValidator
 
-CSS & Javascript learning project
+HTML, CSS & Javascript learning project
